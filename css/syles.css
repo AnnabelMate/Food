@@ -1,3 +1,15 @@
+body {
+    background: url(/images/black.jpg) no-repeat center center/cover;
+    height: 1500px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    line-height: 2;
+    color: aliceblue;
+    overflow-x: hidden;
+    text-align: center;
+}
+
 .jumbotron {
     text-align: center;
     color: coral;
