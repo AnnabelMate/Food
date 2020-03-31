@@ -1,6 +1,6 @@
 body {
     background: url(/images/black.jpg) no-repeat center center/cover;
-    height: 1500px;
+    height: 1000px;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
@@ -21,4 +21,25 @@ h2 {
 
 .panel {
     color: white;
+}
+
+.card-footer {
+    background-color: black;
+    text-align: center;
+    color:red;
+}
+
+.panel-heading1 {
+    font-size: x-large;
+    color: burlywood;
+}
+
+.panel-heading2 {
+    font-size: x-large;
+    color: burlywood;
+}
+
+.panel-heading3 {
+    font-size: x-large;
+    color: burlywood;
 }
